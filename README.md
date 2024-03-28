@@ -30,7 +30,6 @@ presence tracking with 94% accuracy and presented a project report to the colleg
 ## Projects
 ### Age Classification
 [Project Link](https://github.com/Pushkaran-P/Age-Race-Classification)
-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 - Leveraged open source UTKFace Dataset, which contains 36,000 images of individuals ranging from 1 to 116 years old,
 to develop a model for age prediction using TensorFlow
 - Applied Face Detection, Interpolation, GAN, and undersampling for data pre-processing, resulting in a 20% enhancement
@@ -40,14 +39,14 @@ in the F1 score
 
 ### Research Paper Recommendation System
 [Project Link](https://github.com/Pushkaran-P/Research-Paper-Recommendation)
-- ![Demo](https://github.com/Pushkaran-P/Research-Paper-Recommendation/assets/84492623/729d1395-7170-4a35-93de-34232d940f3d)
+![Demo](https://github.com/Pushkaran-P/Research-Paper-Recommendation/assets/84492623/729d1395-7170-4a35-93de-34232d940f3d)
 - Extracted data from research paper websites for scraping with Selenium and Chromium used various text pre-processing techniques to clean and normalize the data for analysis
 - Systemized TF-IDF and cosine similarity to measure the relevance of papers based on the user’s input query and generated a ranked list of recommendations for each topic
 - Devised RAG with LLM to enhance the quality and diversity of the recommendations with ChromaDB.
 
 ### Energy Consumption Forecasting
 [Project Link](https://github.com/Pushkaran-P/Energy-Consumption-Forecasting)
-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- ![EEG Band Discovery](/assets/forecast.png)
 - Built a model to forecast city-wide energy consumption using the NYC energy consumption dataset that contains data on electricity usage on nearly 30,000 of the tallest buildings in NYC
 - Illustrated further insights on data through STL decomposition alongside using ACF and PACF plots to decide parameters, which helped in a 30% reduction in runtime
 - Delivered a SARIMAX model for accurate predictions to achieve a 92% MAPE score.
