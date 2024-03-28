@@ -1,9 +1,7 @@
 # Data Scientist
-#### Summary:
-Dedicated Data Scientist with a year of valuable internship experience in enhancing business outcomes through data-driven 
-solutions. Specialties include Machine Learning algorithms, SQL, Forecasting, Computer Vision, Natural Language Processing, 
-Predictive Models, Data Analysis, Data Visualization and Statistical Modelling. Skilled at translating complex data into actionable 
-insights that drive business decision-making.
+
+Hello!😇 I’m Pushkaran P, a dedicated Data Scientist  with a year of internship experience at Capgemini and iamneo.ai. I hold an Integrated Masters in Data Science from PSG College Of Technology. Throughout my career, I’ve tackled projects involving Machine Learning Data Analysis, Data Engineering, Data Visualization, Data Modeling, Computer Vision, Time Series Forecasting, Natural Language Processing, and Predictive Models.
+
 #### Technical Skills: Python, SQL, PowerBI, Tableu, Docker, AWS
 
 ## Certifications
