@@ -52,3 +52,13 @@ in the F1 score
 - Built a model to forecast city-wide energy consumption using the NYC energy consumption dataset that contains data on electricity usage on nearly 30,000 of the tallest buildings in NYC
 - Illustrated further insights on data through STL decomposition alongside using ACF and PACF plots to decide parameters, which helped in a 30% reduction in runtime
 - Delivered a SARIMAX model for accurate predictions to achieve a 92% MAPE score.
+
+### [Customer Segmentation and Market Basket Analysis](https://github.com/Pushkaran-P/Customer-Segmentation)
+- The goal of this project is to classify customers of an Online Retail Store and study their granular purchase behavior using Python
+- By analyzing customer segmentation and market basket data, we aim to devise strategies that uncover a deeper understanding of purchase decisions,
+determine appropriate product pricing, and make recommendations.
+
+### [Predictive Maintenance of Industrial Components](https://github.com/Pushkaran-P/Predictive-Maintenance-of-Industrial-Components)
+- Objective: The goal of this project is to analyze the degradation of an industrial component over the course of a year.By answering questions such as
+whether the component has been replaced at some point, and if its wear can be accurately predicted, we aim to determine maintenance windows through predictive maintenance
+- Methodology: To achieve our objective, we will implement K-Means Clustering with k=1 and One Class SVM with RBF Kernalization.
