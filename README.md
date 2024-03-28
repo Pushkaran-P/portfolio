@@ -33,8 +33,7 @@ presence tracking with 94% accuracy and presented a project report to the colleg
 - Integrated Masters, Data Science | PSG College Of Technology (_June 2023_)
 
 ## Projects
-### Age Classification
-[Project Link](https://github.com/Pushkaran-P/Age-Race-Classification)
+### [Age Classification](https://github.com/Pushkaran-P/Age-Race-Classification)
 - Leveraged open source UTKFace Dataset, which contains 36,000 images of individuals ranging from 1 to 116 years old,
 to develop a model for age prediction using TensorFlow
 - Applied Face Detection, Interpolation, GAN, and undersampling for data pre-processing, resulting in a 20% enhancement
@@ -42,16 +41,14 @@ in the F1 score
 - Executed CNN with padding, fully convolutional networks, progressive resizing, and transfer learning, leading to a further
 10% improvement in F1 score, and developed a web app using FastAPI and used Docker for containerization.
 
-### Research Paper Recommendation System
+### [Research Paper Recommendation System](https://github.com/Pushkaran-P/Research-Paper-Recommendation)
 ![Demo](/assets/chatbot.gif)
-- [Project Link](https://github.com/Pushkaran-P/Research-Paper-Recommendation)
 - Extracted data from research paper websites for scraping with Selenium and Chromium used various text pre-processing techniques to clean and normalize the data for analysis
 - Systemized TF-IDF and cosine similarity to measure the relevance of papers based on the user’s input query and generated a ranked list of recommendations for each topic
 - Devised RAG with LLM to enhance the quality and diversity of the recommendations with ChromaDB.
 
-### Energy Consumption Forecasting
+### [Energy Consumption Forecasting](https://github.com/Pushkaran-P/Energy-Consumption-Forecasting)
 ![Forecast](/assets/forecast.png)
-- [Project Link](https://github.com/Pushkaran-P/Energy-Consumption-Forecasting)
 - Built a model to forecast city-wide energy consumption using the NYC energy consumption dataset that contains data on electricity usage on nearly 30,000 of the tallest buildings in NYC
 - Illustrated further insights on data through STL decomposition alongside using ACF and PACF plots to decide parameters, which helped in a 30% reduction in runtime
 - Delivered a SARIMAX model for accurate predictions to achieve a 92% MAPE score.
