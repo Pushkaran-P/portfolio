@@ -39,7 +39,7 @@ in the F1 score
 
 ### Research Paper Recommendation System
 [Project Link](https://github.com/Pushkaran-P/Research-Paper-Recommendation)
-![Demo](/assets/chatbot.mp4)
+![Demo](/assets/chatbot.gif)
 - Extracted data from research paper websites for scraping with Selenium and Chromium used various text pre-processing techniques to clean and normalize the data for analysis
 - Systemized TF-IDF and cosine similarity to measure the relevance of papers based on the user’s input query and generated a ranked list of recommendations for each topic
 - Devised RAG with LLM to enhance the quality and diversity of the recommendations with ChromaDB.
