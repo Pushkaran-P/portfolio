@@ -13,7 +13,7 @@ Hello!😇 I’m Pushkaran P, a dedicated Data Scientist  with a year of interns
 #### Expertise: Machine Learning, Deep Learning, Forecasting, Computer Vision, Natural Language Processing
 
 ## Certifications
-- Generative AI with Large Language Models (DeepLearning.AI)
+- [Generative AI with Large Language Models (DeepLearning.AI)](https://coursera.org/verify/VP35EBU5VRRX)
 
 ## Experience
 **Data Scientist @ Capgemini (_January 2023 - July 2023_)**
