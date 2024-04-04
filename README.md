@@ -3,6 +3,7 @@
 Hello!😇 I’m Pushkaran P, a dedicated Data Scientist  with a year of internship experience at Capgemini and iamneo.ai. I hold an Integrated Masters in Data Science from PSG College Of Technology. Throughout my career, I’ve tackled projects involving Machine Learning Data Analysis, Data Engineering, Data Visualization, Data Modeling, Computer Vision, Time Series Forecasting, Natural Language Processing, and Predictive Models.
 
 ## Links:
+- [Resume](https://drive.google.com/file/d/1gAyPwFp4XmxiFCRP3uZTTXPeSQHRjTIw/view?usp=sharing)
 - [Linkedin](https://www.linkedin.com/in/pushkaran-p)
 - [Github](https://github.com/Pushkaran-P)
 - [Mail](mailto:pushkarans15@gmail.com)
