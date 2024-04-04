@@ -8,7 +8,9 @@ Hello!😇 I’m Pushkaran P, a dedicated Data Scientist  with a year of interns
 - [Github](https://github.com/Pushkaran-P)
 - [Mail](mailto:pushkarans15@gmail.com)
 
-#### Technical Skills: Python, SQL, PowerBI, Tableu, Docker, AWS
+#### Tools and Technologies: Python, SQL, PowerBI, Tableu, Docker, AWS
+
+#### Expertise: Machine Learning, Deep Learning, Forecasting, Computer Vision, Natural Language Processing
 
 ## Certifications
 - Generative AI with Large Language Models (DeepLearning.AI)
